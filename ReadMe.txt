@@ -1,0 +1,1 @@
+http://proje-WebAp-LZWK06CQR00Q-1183061456.us-west-2.elb.amazonaws.com:80
